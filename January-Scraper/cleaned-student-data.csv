@@ -1,0 +1,6 @@
+Student,Score,Date,Distinction_Candidate
+Alice,95.0,2026-01-01,True
+Bob,88.0,,True
+Charlie,100.0,,True
+Eve,100.0,2026-01-05,True
+Frank,45.0,2026-01-06,False
