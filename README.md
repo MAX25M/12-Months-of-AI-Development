@@ -39,14 +39,14 @@ This repository serves as my professional portfolio and "dev-log" for 2026. Each
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Languages:** Python, SQL
 - **Libraries:** NumPy, Pandas, Scikit-Learn, PyTorch, Hugging Face
 - **Tools:** Git, Docker, Google Colab, VS Code
 
 ---
 
-## 📈 Learning Resources
+## Learning Resources
 - UoPeople Scholarship Guidelines: Targeting Honours Distinction
 - Hands-On Machine Learning (Aurélien Géron)
 - DeepLearning.AI Specializations
