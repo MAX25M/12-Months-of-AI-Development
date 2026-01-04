@@ -26,6 +26,12 @@ df.loc[df['Score'] > 100, 'Score'] = 100
 # D. Standardize Dates
 df['Date'] = pd.to_datetime(df['Date'], errors='coerce')
 
+# Custom cleaning: Ensure all student names are capitalized
+df['Student'] = df['Student'].apply(lambda x: x.strip().capitalize())
+
+# Flagging "High Achievers" for an AI classification task later
+df['Distinction_Candidate'] = df['Score'].apply(lambda x: True if x >= 85 else False)
+
 print("Cleaned Data Portfolio Asset:")
 print(df)
 
