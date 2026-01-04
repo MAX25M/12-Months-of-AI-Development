@@ -9,7 +9,7 @@ This repository serves as my professional portfolio and "dev-log" for 2026. Each
 ---
 
 ## My Year-End Capstone
-**Project Idea:** [Example: AI-Driven Research Assistant for Academic Papers]  
+**Project Idea:**  AI-Driven Research Assistant for Academic Papers
 **Objective:** To build an Agentic AI system that uses RAG (Retrieval-Augmented Generation) to summarize and cross-reference my research papers at UoPeople
 
 ---
@@ -47,6 +47,5 @@ This repository serves as my professional portfolio and "dev-log" for 2026. Each
 ---
 
 ## Learning Resources
-- UoPeople Scholarship Guidelines: Targeting Honours Distinction
 - Hands-On Machine Learning (Aurélien Géron)
 - DeepLearning.AI Specializations
