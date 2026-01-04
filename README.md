@@ -17,7 +17,7 @@ This repository serves as my professional portfolio and "dev-log" for 2026. Each
 ## The 2026 Roadmap
 
 ### Phase 1: Foundations (Jan - Mar)
-- [ ] **January:** Python for Data Science & GitHub Fundamentals.
+- [✓] **January:** Python for Data Science & GitHub Fundamentals.
   - *Project 1:* Automated Data Scraper & Cleaner.
 - [ ] **February:** Exploratory Data Analysis (EDA) & Statistics.
 - [ ] **March:** Linear Algebra & Calculus for ML.
