@@ -1,20 +1,20 @@
 # 12-Months-of-AI-Development
 This repository serves as my professional portfolio and "dev-log" for 2026. Each month, I document my progress, commit code, and build a project that contributes to my year-end Capstone.
 
-# 🚀 12 Months of AI: From Foundation to Capstone
+# 12 Months of AI: From Foundation to Capstone
 **Goal:** Master Artificial Intelligence & Machine Learning through project-based learning.
 
 This repository serves as my professional portfolio and "dev-log" for 2026. Each month, I document my progress, commit code, and build a project that contributes to my year-end Capstone.
 
 ---
 
-## 👨‍💻 My Year-End Capstone
+## My Year-End Capstone
 **Project Idea:** [Example: AI-Driven Research Assistant for Academic Papers]  
-**Objective:** To build an Agentic AI system that uses RAG (Retrieval-Augmented Generation) to summarize and cross-reference research papers within the NTU AI Cluster.
+**Objective:** To build an Agentic AI system that uses RAG (Retrieval-Augmented Generation) to summarize and cross-reference my research papers at UoPeople
 
 ---
 
-## 📅 The 2026 Roadmap
+## The 2026 Roadmap
 
 ### Phase 1: Foundations (Jan - Mar)
 - [ ] **January:** Python for Data Science & GitHub Fundamentals.
@@ -47,6 +47,6 @@ This repository serves as my professional portfolio and "dev-log" for 2026. Each
 ---
 
 ## 📈 Learning Resources
-- NTU Research Scholarship Guidelines (Targeting Honours Distinction)
+- UoPeople Scholarship Guidelines: Targeting Honours Distinction
 - Hands-On Machine Learning (Aurélien Géron)
 - DeepLearning.AI Specializations
